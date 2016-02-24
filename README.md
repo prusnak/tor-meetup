@@ -29,31 +29,13 @@ Motivací cyklu Tor meetupů je přiblížit návštěvníkům jednotlivé techn
 * Darknet (někdy také Deep web)
   * skrytá vrstva klasického internetu, operující na principu anonymního připojení skrze šifrované decentralizované sítě
 
+## Události
+
+1. [Úvod](https://www.facebook.com/events/1593754657613557/)
+
 ## Motivační filmy
 
-### Citizenfour
-
-![citizenfour](assets/citizenfour.jpg)
-
-[imdb](http://www.imdb.com/title/tt4044364/) [wikipedia](https://en.wikipedia.org/wiki/Citizenfour)
-
-### We Steal Secrets: The Story of WikiLeaks
-
-![we_steal_secrets](assets/we_steal_secrets.jpg)
-
-[imdb](http://www.imdb.com/title/tt1824254/) [wikipedia](https://en.wikipedia.org/wiki/We_Steal_Secrets:_The_Story_of_WikiLeaks)
-
-### Deep Web
-
-![deep_web](assets/deep_web.jpg)
-
-[imdb](http://www.imdb.com/title/tt3312868/) [wikipedia](https://en.wikipedia.org/wiki/Deep_Web_(film))
-
-### The Internet's Own Boy: The Story of Aaron Swartz
-
-![internets_own_boy](assets/internets_own_boy.jpg)
-
-[imdb](http://www.imdb.com/title/tt3268458/) [wikipedia](https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy)
+[![citizenfour](assets/citizenfour.jpg)](http://www.csfd.cz/film/390877-citizenfour-obcan-snowden/prehled/) [![we_steal_secrets](assets/we_steal_secrets.jpg)](http://www.csfd.cz/film/298007-jak-se-krade-tajemstvi-pribeh-wikileaks/prehled/) [![deep_web](assets/deep_web.jpg)](http://www.csfd.cz/film/409329-do-hloubky-webu/komentare/) [![internets_own_boy](assets/internets_own_boy.jpg)](http://www.csfd.cz/film/361964-zazracne-dite-internetu-pribeh-aarona-swartze/prehled/)
 
 ## Zajímavé odkazy
 
