@@ -8,7 +8,11 @@ Tato témata byla v minulosti spíše výsadou hackerů a počítačového under
 
 Motivací cyklu Tor meetupů je přiblížit návštěvníkům jednotlivé technologie a zdůraznit jejich důležitost v teoretické i praktické rovině.
 
-Setkání se budou odehrávat jednou za 14 dní ve středu ve 20h v Institutu Kryptoanarchie Paralelní Polis. Vstupné je dobrovolné, bez registrace. Začínáme 9. března 2016.
+**Setkání se budou odehrávat jednou za 14 dní ve středu ve 20h v Institutu Kryptoanarchie Paralelní Polis.**
+
+**Vstupné je dobrovolné, bez registrace.**
+
+**Začínáme 9. března 2016.**
 
 ## Základní pojmy
 
