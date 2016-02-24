@@ -58,7 +58,18 @@ Motivací cyklu Tor meetupů je přiblížit návštěvníkům jednotlivé techn
 ## Zajímavé odkazy
 
 * https://www.torproject.org/
+
 * https://torflow.uncharted.software/
-* https://wikileaks.org/
+* https://atlas.torproject.org/
+* https://globe.torproject.org/
+* https://torstatus.blutmagie.de/
+* https://metrics.torproject.org/
+
 * https://tails.boum.org/
+* https://subgraph.com/sgos/
+
+* https://ricochet.im/
+
+* https://wikileaks.org/
 * https://securedrop.org/
+* https://ahmia.fi/
