@@ -12,18 +12,18 @@ Setkání se budou odehrávat jednou za 14 dní ve středu ve 20h v Institutu Kr
 
 ## Základní pojmy
 
-Anonymita
-: utajení totožnosti osoby, případně instituce, z důvodu zachování soukromí či vyhnutí se důsledkům svého jednání
-Šifrování
-: proces, kterým se nezabezpečená elektronická data převádí za pomoci kryptografie na data šifrovaná, čitelná pouze pro majitele dešifrovacího klíče; slouží k ochraně dat proti nežádoucímu zjištění cizí osobou a uplatňuje se při ukládání dat i při jejich přenosu včetně telekomunikace
-Bezpečnost
-: soubor opatření, jež mají za cíl znemožnit, nebo maximálně znesnadnit útočníkovi získání soukromých či neveřejných dat, nebo zabránit pokusu převzetí vlády nad počítačem, případně vyřaděním počítače nebo celé sítě z činnosti
-Kyberaktivismus
-: využívání internetových prostředků a anonymity či pseudonymity internetu k politickému a dalšímu aktivismu, agitaci, organizaci a vytváření hnutí
-Whistleblowing
-: fenomén, kdy zaměstnanci státní správy nebo velkých firem upozorní na trestné nebo podezřelé jednání, o kterém se dozvěděli jen díky svému postavení a interním informacím
-Darknet (někdy také Deep web)
-: skrytá vrstva klasického internetu, operující na principu anonymního připojení skrze šifrované decentralizované sítě
+* Anonymita
+  * utajení totožnosti osoby, případně instituce, z důvodu zachování soukromí či vyhnutí se důsledkům svého jednání
+* Šifrování
+  * proces, kterým se nezabezpečená elektronická data převádí za pomoci kryptografie na data šifrovaná, čitelná pouze pro majitele dešifrovacího klíče; slouží k ochraně dat proti nežádoucímu zjištění cizí osobou a uplatňuje se při ukládání dat i při jejich přenosu včetně telekomunikace
+* Bezpečnost
+  * soubor opatření, jež mají za cíl znemožnit, nebo maximálně znesnadnit útočníkovi získání soukromých či neveřejných dat, nebo zabránit pokusu převzetí vlády nad počítačem, případně vyřaděním počítače nebo celé sítě z činnosti
+* Kyberaktivismus
+  * využívání internetových prostředků a anonymity či pseudonymity internetu k politickému a dalšímu aktivismu, agitaci, organizaci a vytváření hnutí
+* Whistleblowing
+  * fenomén, kdy zaměstnanci státní správy nebo velkých firem upozorní na trestné nebo podezřelé jednání, o kterém se dozvěděli jen díky svému postavení a interním informacím
+* Darknet (někdy také Deep web)
+  * skrytá vrstva klasického internetu, operující na principu anonymního připojení skrze šifrované decentralizované sítě
 
 ## Motivační filmy
 
