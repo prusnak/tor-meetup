@@ -2,11 +2,11 @@
 
 ![tor_meetup](assets/tor_meetup.png)
 
-Po vzoru populárních Bitcoin meetupů startujeme v [https://www.paralelnipolis.cz/](Paralelní Polis) nový cyklus pravidelných setkání. Věnovat se v nich budeme anonymizačním technologiím typu Tor a dalším navazujících tématům. Tor meetup je určen pro všechny příznivce šifrování, anonymity, kyberaktivismu, pro ty, kdo chtějí chránit své soukromí a bezpečnost na Internetu.
+Po vzoru populárních Bitcoin meetupů startujeme v [https://www.paralelnipolis.cz/](Paralelní Polis) nový cyklus pravidelných setkání. Věnovat se v nich budeme anonymizačním technologiím typu Tor a dalším navazujících tématům. Tor meetup je určen pro všechny příznivce šifrování, anonymity, kyberaktivismu, pro ty, kdo chtějí aktivně porozumět ochraně svého soukromí a bezpečnosti na Internetu.
 
 Tato témata byla v minulosti spíše výsadou hackerů a počítačového undergroundu. Dnes se ovšem díky rostoucím zásahům států a korporací do našich životů stávají aktuálními pro širší publikum.
 
-Motivací cyklu Tor meetupů je přiblížit návštěvníkům jednotlivé technologie a zdůraznit jejich důležitost v teoretické i praktické rovině.
+Motivací cyklu Tor meetupů je přiblížit návštěvníkům srozumitelnou formou jednotlivé anonymizační technologie a zdůraznit jejich důležitost v teoretické i praktické rovině.
 
 **Setkání se budou odehrávat jednou za 14 dní ve středu ve 20h v Institutu Kryptoanarchie Paralelní Polis.**
 
