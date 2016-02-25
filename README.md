@@ -8,7 +8,7 @@ Tato témata byla v minulosti spíše výsadou hackerů a počítačového under
 
 Motivací cyklu Tor meetupů je přiblížit návštěvníkům srozumitelnou formou jednotlivé anonymizační technologie a zdůraznit jejich důležitost v teoretické i praktické rovině.
 
-Zajímavé odkazy, pojmy, motivační filmy a události najdete na https://github.com/prusnak/tor-meetup
+Zajímavé odkazy, pojmy, motivační filmy a události najdete na https://github.com/ParalelniPolis/tor-meetup
 
 **Setkání se budou odehrávat jednou za 14 nebo 28 dní ve středu ve 20h v Institutu Kryptoanarchie Paralelní Polis.**
 
