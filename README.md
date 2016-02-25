@@ -22,6 +22,17 @@ Když chcete podpořit tento meetup, jeho [aktivity](#aktivity) a další rozvoj
 
 [1N3Mafk6nTxds5wnKUkQV7iHnsUjSN9UXz](https://blockchain.info/address/1N3Mafk6nTxds5wnKUkQV7iHnsUjSN9UXz).
 
+## Události
+
+| datum | # | řečník | název | materiály |
+|-------|---|--------|-------|-----------|
+| 09.03.2016 | 001 | Pavol Rusnák | [Úvod](https://www.facebook.com/events/1593754657613557/) | - |
+
+## Aktivity
+
+* organizování meetupů včetně zajišťování zajímavých hostů ze zahraničí
+* provoz Tor relay a/nebo Tor exit nodů ([enyo](https://atlas.torproject.org/#details/E093E884517F5E91166EE8790241A3A7008FF303))
+
 ## Základní pojmy
 
 * Anonymita
@@ -37,20 +48,9 @@ Když chcete podpořit tento meetup, jeho [aktivity](#aktivity) a další rozvoj
 * Darknet (někdy také Deep web)
   * skrytá vrstva klasického internetu, operující na principu anonymního připojení skrze šifrované decentralizované sítě
 
-## Události
-
-| datum | # | řečník | název | materiály |
-|-------|---|--------|-------|-----------|
-| 09.03.2016 | 001 | Pavol Rusnák | [Úvod](https://www.facebook.com/events/1593754657613557/) | - |
-
 ## Motivační filmy
 
 [![citizenfour](assets/citizenfour.jpg)](http://www.csfd.cz/film/390877-citizenfour-obcan-snowden/) [![we_steal_secrets](assets/we_steal_secrets.jpg)](http://www.csfd.cz/film/298007-jak-se-krade-tajemstvi-pribeh-wikileaks/) [![deep_web](assets/deep_web.jpg)](http://www.csfd.cz/film/409329-do-hloubky-webu/) [![internets_own_boy](assets/internets_own_boy.jpg)](http://www.csfd.cz/film/361964-zazracne-dite-internetu-pribeh-aarona-swartze/)
-
-## Aktivity
-
-* organizování meetupů včetně zajišťování zajímavých hostů ze zahraničí
-* provoz Tor relay a/nebo Tor exit nodů ([enyo](https://atlas.torproject.org/#details/E093E884517F5E91166EE8790241A3A7008FF303))
 
 ## Zajímavé odkazy
 
