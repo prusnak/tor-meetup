@@ -18,7 +18,7 @@ Zajímavé odkazy, pojmy, motivační filmy a události najdete na https://githu
 
 Když chcete podpořit tento meetup, jeho [aktivity](#aktivity) a další rozvoj, můžete tak učinit na bitcoinové adrese:
 
-![btc_donate](assets/btc_donate.png)
+[![btc_donate](assets/btc_donate.png)](https://blockchain.info/address/1N3Mafk6nTxds5wnKUkQV7iHnsUjSN9UXz)
 
 [1N3Mafk6nTxds5wnKUkQV7iHnsUjSN9UXz](https://blockchain.info/address/1N3Mafk6nTxds5wnKUkQV7iHnsUjSN9UXz).
 
