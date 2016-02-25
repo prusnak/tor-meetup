@@ -14,6 +14,12 @@ Zajímavé odkazy, pojmy, motivační filmy a události najdete na https://githu
 
 **Vstupné je dobrovolné, bez registrace.**
 
+Když chcete podpořit tento meetup, jeho [aktivity](#aktivity) a další rozvoj, můžete tak učinit na bitcoinové adrese:
+
+![btc_donate](assets/btc_donate.png)
+
+[1N3Mafk6nTxds5wnKUkQV7iHnsUjSN9UXz](https://blockchain.info/address/1N3Mafk6nTxds5wnKUkQV7iHnsUjSN9UXz).
+
 **Začínáme 9. března 2016.**
 
 ## Základní pojmy
@@ -40,6 +46,11 @@ Zajímavé odkazy, pojmy, motivační filmy a události najdete na https://githu
 ## Motivační filmy
 
 [![citizenfour](assets/citizenfour.jpg)](http://www.csfd.cz/film/390877-citizenfour-obcan-snowden/) [![we_steal_secrets](assets/we_steal_secrets.jpg)](http://www.csfd.cz/film/298007-jak-se-krade-tajemstvi-pribeh-wikileaks/) [![deep_web](assets/deep_web.jpg)](http://www.csfd.cz/film/409329-do-hloubky-webu/) [![internets_own_boy](assets/internets_own_boy.jpg)](http://www.csfd.cz/film/361964-zazracne-dite-internetu-pribeh-aarona-swartze/)
+
+## Aktivity
+
+* organizování meetupů včetně zajišťování zajímavých hostů ze zahraničí
+* provoz Tor relay a/nebo Tor exit nodů ([enyo](https://atlas.torproject.org/#details/E093E884517F5E91166EE8790241A3A7008FF303)
 
 ## Zajímavé odkazy
 
