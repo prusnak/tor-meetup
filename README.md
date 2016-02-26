@@ -53,6 +53,12 @@ Když chcete podpořit tento meetup, jeho [aktivity](#aktivity) a další rozvoj
 
 [![citizenfour](assets/citizenfour.jpg)](http://www.csfd.cz/film/390877-citizenfour-obcan-snowden/) [![we_steal_secrets](assets/we_steal_secrets.jpg)](http://www.csfd.cz/film/298007-jak-se-krade-tajemstvi-pribeh-wikileaks/) [![deep_web](assets/deep_web.jpg)](http://www.csfd.cz/film/409329-do-hloubky-webu/) [![internets_own_boy](assets/internets_own_boy.jpg)](http://www.csfd.cz/film/361964-zazracne-dite-internetu-pribeh-aarona-swartze/)
 
+## Kontakt
+
+Pořadatelem meetupů je Pavol Rusnák: [email](mailto:stick@gk2.sk?subject=tor+meetup).
+
+V případě, že chcete vystoupit s vlastním tématem, neváhejte se ozvat. Děkuji!
+
 ## Zajímavé odkazy
 
 * https://www.torproject.org/
