@@ -55,7 +55,7 @@ Když chcete podpořit tento meetup, jeho [aktivity](#aktivity) a další rozvoj
 
 ## Kontakt
 
-Pořadatelem meetupů je Pavol Rusnák: [email](mailto:stick@gk2.sk?subject=tor+meetup).
+Pořadatelem meetupů je Pavol Rusnák: [email](mailto:stick@gk2.sk?subject=Tor%20Meetup).
 
 V případě, že chcete vystoupit s vlastním tématem, neváhejte se ozvat. Děkuji!
 
