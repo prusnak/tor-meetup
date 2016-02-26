@@ -24,9 +24,9 @@ Když chcete podpořit tento meetup, jeho [aktivity](#aktivity) a další rozvoj
 
 ## Události
 
-| datum | # | řečník | název | materiály |
-|-------|---|--------|-------|-----------|
-| 09.03.2016 | 001 | Pavol Rusnák | [Úvod](https://www.facebook.com/events/1593754657613557/) | - |
+| datum | # | řečník | název | odkazy | materiály |
+|-------|---|--------|-------|--------|-----------|
+| 09.03.2016 | 001 | Pavol Rusnák | Úvod | [fb](https://www.facebook.com/events/1593754657613557/) | - |
 
 ## Aktivity
 
