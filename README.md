@@ -30,10 +30,12 @@ Když chcete podpořit tento meetup, jeho [aktivity](#aktivity) a další rozvoj
 
 ## Aktivity
 
-* organizování meetupů včetně zajišťování zajímavých hostů ze zahraničí
-* provoz Tor relay a/nebo Tor exit nodů ([enyo](https://atlas.torproject.org/#details/E093E884517F5E91166EE8790241A3A7008FF303))
-* VPN, která umožní jednoduše se podívat jak vidí Internet lidé v Číne, Rusku a jiných státech, které ho masivně cenzurují
-* různé workshopy
+* organizování meetupů
+* + zajišťování zajímavých hostů ze zahraničí
+* "cenzurující" VPN, která umožní jednoduše se podívat, jak vidí Internet lidé v Číne, Rusku a jiných státech, které ho cenzurují
+* různé workshopy (např. instalace Tor na Raspberry Pi)
+* provoz Tor relay a/nebo Tor exit nodů:
+  * [enyo](https://atlas.torproject.org/#details/E093E884517F5E91166EE8790241A3A7008FF303)
 
 ## Základní pojmy
 
