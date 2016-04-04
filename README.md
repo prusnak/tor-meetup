@@ -12,8 +12,6 @@ Zajímavé odkazy, pojmy, motivační filmy a události najdete na https://githu
 
 **Setkání se budou odehrávat jednou za 14 nebo 28 dní ve středu ve 20h v Institutu Kryptoanarchie Paralelní Polis.**
 
-**Začínáme 9. března 2016.**
-
 **Vstupné je dobrovolné, bez registrace.**
 
 Když chcete podpořit tento meetup, jeho [aktivity](#aktivity) a další rozvoj, můžete tak učinit na bitcoinové adrese:
@@ -26,8 +24,9 @@ Když chcete podpořit tento meetup, jeho [aktivity](#aktivity) a další rozvoj
 
 | datum | # | řečník | název | odkazy | materiály |
 |-------|---|--------|-------|--------|-----------|
-| 09.03.2016 | 001 | Pavol Rusnák | Úvod | [fb](https://www.facebook.com/events/1593754657613557/) | - |
-| 06.04.2016 | 002 | Pavol Rusnák | Šifrovaná komunikace | [fb](https://www.facebook.com/events/1696169690668939/) | - |
+| 09.03.2016 | 001 | Pavol Rusnák | Úvod | [fb](https://www.facebook.com/events/1593754657613557/) | [slajdy](slides/001.pdf) |
+| 06.04.2016 | 002 | Jan Švec, Jan Pochyla, Pavol Rusnák | Šifrovaná komunikace | [fb](https://www.facebook.com/events/1696169690668939/) | [slajdy](slides/002.pdf) |
+| 18.05.2016 | 003 | AnonQchan, Pavol Rusnák | Bezpečné distribuce: Tails, Subgraph, Whonix, Qubes | - | - |
 
 ## Aktivity
 
@@ -38,7 +37,6 @@ Když chcete podpořit tento meetup, jeho [aktivity](#aktivity) a další rozvoj
 * provoz Tor relay a/nebo Tor exit nodů:
   * [enyo](https://atlas.torproject.org/#details/E093E884517F5E91166EE8790241A3A7008FF303) (relay)
   * [sway](https://atlas.torproject.org/#details/77204802405A7DF1E7BD3BC579F8D1D7FB81DFD4) (relay)
-  * [ParalelniPolisCZ](https://atlas.torproject.org/#details/C396A73DFFBB2E5C1DF4B79AA09AD8A724DF2FBA) (exit)
 
 ## Základní pojmy
 
