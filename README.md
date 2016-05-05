@@ -26,7 +26,7 @@ Když chcete podpořit tento meetup, jeho [aktivity](#aktivity) a další rozvoj
 |-------|---|--------|-------|--------|-----------|
 | 09.03.2016 | 001 | Pavol Rusnák | Úvod | [fb](https://www.facebook.com/events/1593754657613557/) | [slajdy](slides/001.pdf) |
 | 06.04.2016 | 002 | Jan Švec, Jan Pochyla, Pavol Rusnák | Šifrovaná komunikace | [fb](https://www.facebook.com/events/1696169690668939/) | [slajdy](slides/002.pdf) |
-| 18.05.2016 | 003 | AnonQchan, Pavol Rusnák | Bezpečné distribuce: Tails, Subgraph, Whonix, Qubes | - | - |
+| 18.05.2016 | 003 | AnonQchan, Pavol Rusnák | Bezpečné distribuce: Tails, Subgraph, Whonix, Qubes | [fb](https://www.facebook.com/events/1601385133510140/) | - |
 | 01.06.2016 | 004 | hiviah | Teoretické a praktické útoky na Tor | - | - |
 
 ## Aktivity
