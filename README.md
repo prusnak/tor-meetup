@@ -36,8 +36,8 @@ Když chcete podpořit tento meetup, jeho [aktivity](#aktivity) a další rozvoj
 * "cenzurující" VPN, která umožní jednoduše se podívat, jak vidí Internet lidé v Číne, Rusku a jiných státech, které ho cenzurují
 * různé workshopy (např. instalace Tor na Raspberry Pi)
 * provoz Tor relay a/nebo Tor exit nodů:
-  * [enyo](https://atlas.torproject.org/#details/E093E884517F5E91166EE8790241A3A7008FF303) (relay)
-  * [sway](https://atlas.torproject.org/#details/77204802405A7DF1E7BD3BC579F8D1D7FB81DFD4) (relay)
+  * sway (relay): [atlas](https://atlas.torproject.org/#details/77204802405A7DF1E7BD3BC579F8D1D7FB81DFD4) [globe](https://globe.torproject.org/#/relay/77204802405A7DF1E7BD3BC579F8D1D7FB81DFD4)
+  * enyo (relay): [atlas](https://atlas.torproject.org/#details/E093E884517F5E91166EE8790241A3A7008FF303) [globe](https://globe.torproject.org/#/relay/E093E884517F5E91166EE8790241A3A7008FF303)
 
 ## Základní pojmy
 
