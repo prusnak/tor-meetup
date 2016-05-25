@@ -27,7 +27,7 @@ Když chcete podpořit tento meetup, jeho [aktivity](#aktivity) a další rozvoj
 | 09.03.2016 | 001 | Pavol Rusnák | Úvod | [fb](https://www.facebook.com/events/1593754657613557/) | [slajdy](https://github.com/ParalelniPolis/tor-meetup/raw/gh-pages/slides/001.pdf) |
 | 06.04.2016 | 002 | Jan Švec, Jan Pochyla, Pavol Rusnák | Šifrovaná komunikace | [fb](https://www.facebook.com/events/1696169690668939/) | [slajdy](https://github.com/ParalelniPolis/tor-meetup/raw/gh-pages/slides/002.pdf) |
 | 18.05.2016 | 003 | a) Pavol Rusnák<br>b) AnonQchan | a) Bezpečné distribuce<br>b) Dokonalá anonymita | [fb](https://www.facebook.com/events/1601385133510140/) | a) [slajdy](https://github.com/ParalelniPolis/tor-meetup/raw/gh-pages/slides/003.pdf)<br>b) [video](https://github.com/ParalelniPolis/tor-meetup/raw/gh-pages/slides/003.mp4) |
-| 01.06.2016 | 004 | hiviah | Útoky na Tor - především ty praktické | - | - |
+| 01.06.2016 | 004 | hiviah | Útoky na Tor - především ty praktické | [fb](https://www.facebook.com/events/279605345710179/) | - |
 
 ## Aktivity
 
