@@ -39,8 +39,8 @@ Když chcete podpořit tento meetup, jeho [aktivity](#aktivity) a další rozvoj
 
 | jméno | typ   | odkazy |
 |-------|-------|--------|
-| sway  | relay | [atlas](https://atlas.torproject.org/#details/77204802405A7DF1E7BD3BC579F8D1D7FB81DFD4) [globe](https://globe.torproject.org/#/relay/77204802405A7DF1E7BD3BC579F8D1D7FB81DFD4) |
-| enyo  | relay | [atlas](https://atlas.torproject.org/#details/E093E884517F5E91166EE8790241A3A7008FF303) [globe](https://globe.torproject.org/#/relay/E093E884517F5E91166EE8790241A3A7008FF303) |
+| sway  | relay | [atlas](https://atlas.torproject.org/#details/77204802405A7DF1E7BD3BC579F8D1D7FB81DFD4) |
+| enyo  | relay | [atlas](https://atlas.torproject.org/#details/E093E884517F5E91166EE8790241A3A7008FF303) |
 
 ## Základní pojmy
 
@@ -73,7 +73,6 @@ V případě, že chcete vystoupit s vlastním tématem, neváhejte se ozvat. D�
 
 * https://torflow.uncharted.software/
 * https://atlas.torproject.org/
-* https://globe.torproject.org/
 * https://torstatus.blutmagie.de/
 * https://metrics.torproject.org/
 
